@@ -1,6 +1,6 @@
 # Archived repository
 
-Marlin 2.0 supports the Monoprice Select Mini
+Marlin 2.0 now supports the Monoprice Select Mini, so this repository is obsolete. Use Marlin 2.0 instead.
 
 Please use official Marlin 2.0 and the config:
 https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x/config/examples/Malyan/M200
