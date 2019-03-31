@@ -1,3 +1,13 @@
+# Archived repository
+
+Marlin 2.0 supports the Monoprice Select Mini
+
+Please use official Marlin 2.0 and the config:
+https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x/config/examples/Malyan/M200
+
+
+# Original README below:
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
